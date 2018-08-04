@@ -1,1 +1,1 @@
-# cop-inventory
+# ocp-inventory
